@@ -53,6 +53,10 @@
    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
   <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white">
    </a>
+  &emsp;
+  <a href="https://www.python.org/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Full Stack Development
@@ -99,6 +103,14 @@
   <img alt="Design Principles" src="https://img.shields.io/badge/Design%20Principles-%23007ACC.svg?style=plastic&logo=dotnet&logoColor=white">
 </a>
 
+</p>
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Data_Structures.gif?raw=true" width = 50px>  </picture> Data Structures and Algorithms
+<p align="center">
+  &emsp;
+  <a href="#"><img alt="Data Structures" src="https://img.shields.io/badge/Data%20Structures-%23007ACC.svg?style=plastic&logo=algorithms&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-%23007ACC.svg?style=plastic&logo=algorithms&logoColor=white"></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
